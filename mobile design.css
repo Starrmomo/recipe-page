@@ -1,0 +1,123 @@
+/* x-small devices (portrait phones, less than 320px)*/
+@media(max-width: 320px) {
+    body {
+        display: flex;
+        background-color: none;
+        width: 100%;
+        height: 100%;
+        margin-right: 0px;
+        margin-left: 0px;
+        padding-top: 0px;
+
+    }
+    .omeletpic {
+        height: 150px;
+        width: 100%;
+        border-radius: 0px;
+        padding: 0px;
+        margin-top: 0px;
+
+    }
+
+    .rep {
+        padding-left: 20px;
+
+    }
+
+    .rep2 {
+        padding-left: 20px;
+        margin-right: 20px;
+    }
+
+    .prepare {
+        padding-left: 10px;
+
+    }
+
+
+    .prepare2 {
+        padding-left: 10%;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .ingre {
+        padding-left: 20px;
+
+    }
+
+    .patt {
+        padding-right: 20px;
+    }
+
+    .patt2 {
+        padding-left: 20px;
+    }
+
+
+    .ingre2 {
+        padding-left: 20px;
+    }
+
+
+    .nut {
+        padding-left: 20px;
+    }
+
+    .divider {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+
+    .divider3 {
+        margin-left: 15px;
+        margin-right: 20px;
+    }
+
+    .calo2 {
+        margin-left: 40px;
+    }
+
+    .nutt2 {
+        margin-left: 84px;
+    }
+
+    .nutt3 {
+        margin-left: 100px;
+    }
+
+    .nutt4 {
+        margin-left: 90px;
+    }
+
+    .nutt5 {
+        margin-left: 115px;
+    }
+
+    .omebody {
+        padding: 0px;
+        margin-top: 0px;
+        border-radius: 0px;
+        margin-bottom: 0%;
+        margin-top: 0px;
+        background-color: none;
+
+    }
+
+    .inner {
+        margin-right: 0%;
+        border-radius: 0px;
+
+    }
+
+    .divider {
+        margin-right: px;
+    }
+
+    .calori {
+        padding-bottom: 20px;
+    }
+
+
+}
