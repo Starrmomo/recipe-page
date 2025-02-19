@@ -1,36 +1,36 @@
 .omeletpic {
     background-image: url("omelet.webp");
-    width: 80%;
+    width: 100%;
     height: 300px;
-    margin-top: 25px;
-    margin-left: 30px;
+    margin-left: 0px;
     border-radius: 9px;
+    
 }
 
 .omebody {
-
-
     margin-bottom: 30%;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     border-radius: 5px;
     padding: 20px;
-    margin-top: 1px;
+   
+    
 }
 
 body {
-    padding-left: 300px;
+    margin-right: auto;
+    margin-left: auto;
     height: 100%;
     width: 50%;
-    background-color: #EADDC8;
+   background-color: #EADDC8;
+   padding-top: 50px;
     
 }
 
 .prepare2 {
     background-color: #f6ebee;
-    margin-right: 5%;
     padding-bottom: 5px;
     padding-top: 1px;
-    margin-left: 4%;
+    margin-left: 1px;
     border-radius: 10px;
 }
 
@@ -44,31 +44,33 @@ body {
 
 .ingre2 {
     color: rgb(166, 54, 54);
-    padding-left: 30px;
+    padding-left: 4px;
 }
 
-
+.patt{
+    padding-right: 30px;
+}
 .ingre {
     color: rgb(164, 60, 60);
     padding-top: 10px;
-    padding-left: 30px;
+    padding-left: 4px;
 }
 
 .divider {
     border-top: solid 1px rgb(230, 225, 225);
-    margin-right: 5%;
-    margin-left: 18px;
+    margin-right: 2%;
+    margin-left: 12px;
 }
 
 .divider2 {
     border-top: solid 1px rgb(230, 225, 225);
-    margin-right: 5%;
+    margin-right: 2%;
 
 }
 
 .divider3 {
     border-top: solid 1px rgb(230, 225, 225);
-    margin-right: 5%;
+    margin-right: 2%;
 }
 
 .min {
@@ -78,46 +80,46 @@ body {
 
 .nut {
     margin-bottom: 30px;
-    padding-left: 30px;
+    padding-left: 4px;
 }
 
 .nutt2 {
-    margin-left: 300px;
+    margin-left: 220px;
     color: rgb(164, 51, 51);
 }
 
 .nutt3 {
-    margin-left: 318px;
+    margin-left: 240px;
     color: rgb(163, 50, 50);
 }
 
 .nutt4 {
-    margin-left: 305px;
+    margin-left: 230px;
     color: rgb(166, 55, 55);
 }
 
 .nutt5 {
-    margin-left: 327px;
+    margin-left: 255px;
     color: rgb(164, 53, 53);
 }
 
 .calori {
-    padding-left: 30px;
-    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 .calo2 {
-    margin-left: 20px;
+    margin-left: 10px;
 
 }
 
 .rep {
     font-weight: 1000;
-    margin-left: 30px;
+    margin-left: 4px;
 }
 
 .rep2 {
-    margin-left: 30px;
+    margin-left: 4px;
 }
 
 .orderlist li::marker {
@@ -135,5 +137,5 @@ body {
 .inner {
     background-color: white;
     border-radius: 10px;
-
+    margin-right: 23%;
 }
