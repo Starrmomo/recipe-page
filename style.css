@@ -153,11 +153,11 @@ body {
 
 
 /* x-small devices (portrait phones, less than 320px)*/
-@media(max-width: 320px) {
+@media(max-width: 360px) {
     body {
         display: flex;
         background-color: none;
-        width: 100%;
+        width: 90%;
         height: 100%;
         margin-right: 0px;
         margin-left: 0px;
@@ -169,13 +169,13 @@ body {
         width: 100%;
         border-radius: 0px;
         padding: 0px;
-        margin-top: 0px;
+        margin-top: 0px;1
 
     }
 
     .rep {
         padding-left: 20px;
-
+        
     }
 
     .rep2 {
