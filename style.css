@@ -169,7 +169,7 @@ body {
         width: 100%;
         border-radius: 0px;
         padding: 0px;
-        margin-top: 0px;1
+        margin-top: 0px;
 
     }
 
@@ -277,5 +277,42 @@ body {
 }
 
 
+/*medium device*/
+@media(max-width: 800px) {
 
+    .omeletpic {
+        height: 150px;
+    }
+
+    body {
+        width: 500px;
+        height: 200px;
+    }
+}
+
+/* large device*/
+@media(max-width: 1200px) {
+    .omeletpic {
+        height: 200px;
+    }
+
+    .body {
+        width: 700px;
+    }
+}
+
+@media(max-width: 1152px) {
+    body {
+        width: 600px;
+        height: 100px;
+
+    }
+}
+
+/*x large media*/
+@media(max-width: 1524px) {
+    .omeletpic {
+        height: 200px;
+    }
+}
 
